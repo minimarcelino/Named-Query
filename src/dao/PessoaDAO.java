@@ -1,5 +1,6 @@
 package dao;
 
+import br.edu.ifsp.pep.dao.AbstractDAO;
 import java.math.BigDecimal;
 import java.util.List;
 import javax.persistence.EntityManager;
